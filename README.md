@@ -16,7 +16,7 @@
 - [**BillSaathi**](https://github.com/bharatvamsi34/billsaathi): AI agent that checks Indian bills and payment messages for scams before you pay (English, Telugu, Hindi). Built solo for the Meta Global AI Developer Hackathon 2026. [Demo](https://youtu.be/otzPYcV3oms)
 
 ### Certifications
-AWS DevOps Engineer – Professional · Google Cloud Security Engineer – Professional · AWS Developer – Associate
+AWS DevOps Engineer – Professional · AWS Developer – Associate
 
 ### Work with me
 Open to freelance and contract work, remote, with US, UK and EU clients. Email: ch.bharat34@gmail.com
