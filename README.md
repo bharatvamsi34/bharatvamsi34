@@ -12,6 +12,7 @@
 `C#` `ASP.NET Core` `.NET 8` `Angular` `TypeScript` `SQL Server` `Python` `FastAPI` `Next.js` `Azure` `AWS` `Azure DevOps`
 
 ### Featured
+- [**stripe-billing-dotnet**](https://github.com/bharatvamsi34/stripe-billing-dotnet): production-style Stripe subscription billing in .NET 8 with Clean Architecture. Signed webhooks with exactly-once processing, idempotent APIs, out-of-order event handling, an append-only double-entry ledger, and an Angular admin page. 28 tests, CI on SQL Server and Docker.
 - [**BillSaathi**](https://github.com/bharatvamsi34/billsaathi): AI agent that checks Indian bills and payment messages for scams before you pay (English, Telugu, Hindi). Built solo for the Meta Global AI Developer Hackathon 2026. [Demo](https://youtu.be/otzPYcV3oms)
 
 ### Certifications
